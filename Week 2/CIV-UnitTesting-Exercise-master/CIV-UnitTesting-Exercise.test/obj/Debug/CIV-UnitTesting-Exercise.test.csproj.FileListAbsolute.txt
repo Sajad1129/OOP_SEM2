@@ -1,0 +1,30 @@
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\NUnit3.TestAdapter.dll
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\NUnit3.TestAdapter.pdb
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.engine.dll
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.engine.api.dll
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\Mono.Cecil.dll
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\CIV-UnitTesting-Exercise.test.dll
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\CIV-UnitTesting-Exercise.test.pdb
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.framework.dll
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.framework.pdb
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.framework.xml
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.csprojResolveAssemblyReference.cache
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.csproj.CoreCompileInputs.cache
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.dll
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.pdb
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\NUnit3.TestAdapter.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\NUnit3.TestAdapter.pdb
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.engine.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.engine.api.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\Mono.Cecil.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\CIV-UnitTesting-Exercise.test.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\CIV-UnitTesting-Exercise.test.pdb
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\CIV_UnitTesting_Exercises.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.framework.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\CIV_UnitTesting_Exercises.pdb
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.framework.pdb
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\bin\Debug\nunit.framework.xml
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.csprojResolveAssemblyReference.cache
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.csproj.CoreCompileInputs.cache
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.dll
+H:\Semester 2\OO Programming\Week 2\CIV-UnitTesting-Exercise-master\CIV-UnitTesting-Exercise.test\obj\Debug\CIV-UnitTesting-Exercise.test.pdb

@@ -1,0 +1,9 @@
+H:\Semester 2\OO Programming\Game1\Game1\bin\Debug\Game1.exe.config
+H:\Semester 2\OO Programming\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+H:\Semester 2\OO Programming\Week 1\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+H:\Semester 2\OO Programming\Week 1\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+H:\Semester 2\OO Programming\Week 1\Game1\Game1\bin\Debug\Game1.exe.config
+H:\Semester 2\OO Programming\Week 1\Game1\Game1\bin\Debug\Game1.exe
+H:\Semester 2\OO Programming\Week 1\Game1\Game1\bin\Debug\Game1.pdb
+H:\Semester 2\OO Programming\Week 1\Game1\Game1\obj\Debug\Game1.exe
+H:\Semester 2\OO Programming\Week 1\Game1\Game1\obj\Debug\Game1.pdb

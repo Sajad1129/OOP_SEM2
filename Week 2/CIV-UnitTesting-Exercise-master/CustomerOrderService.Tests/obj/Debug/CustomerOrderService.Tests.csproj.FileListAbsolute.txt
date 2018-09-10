@@ -1,0 +1,2 @@
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CustomerOrderService.Tests\obj\Debug\CustomerOrderService.Tests.csprojResolveAssemblyReference.cache
+H:\Semester 2\OO Programming\CIV-UnitTesting-Exercise-master\CustomerOrderService.Tests\obj\Debug\CustomerOrderService.Tests.csproj.CoreCompileInputs.cache

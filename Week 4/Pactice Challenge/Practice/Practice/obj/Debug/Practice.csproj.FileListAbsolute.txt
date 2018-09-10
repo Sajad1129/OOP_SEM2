@@ -1,0 +1,7 @@
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Practice\bin\Debug\Practice.exe.config
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Practice\bin\Debug\Practice.exe
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Practice\bin\Debug\Practice.pdb
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Practice\obj\Debug\Practice.exe
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Practice\obj\Debug\Practice.pdb

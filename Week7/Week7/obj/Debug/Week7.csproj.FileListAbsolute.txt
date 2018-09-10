@@ -1,0 +1,15 @@
+H:\Semester 2\Week7\Week7\bin\Debug\Week7.exe.config
+H:\Semester 2\Week7\Week7\bin\Debug\Week7.exe
+H:\Semester 2\Week7\Week7\bin\Debug\Week7.pdb
+H:\Semester 2\Week7\Week7\obj\Debug\Week7.csprojResolveAssemblyReference.cache
+H:\Semester 2\Week7\Week7\obj\Debug\MainWindow.g.cs
+H:\Semester 2\Week7\Week7\obj\Debug\App.g.cs
+H:\Semester 2\Week7\Week7\obj\Debug\Week7_MarkupCompile.cache
+H:\Semester 2\Week7\Week7\obj\Debug\Week7_MarkupCompile.lref
+H:\Semester 2\Week7\Week7\obj\Debug\MainWindow.baml
+H:\Semester 2\Week7\Week7\obj\Debug\Week7.g.resources
+H:\Semester 2\Week7\Week7\obj\Debug\Week7.Properties.Resources.resources
+H:\Semester 2\Week7\Week7\obj\Debug\Week7.csproj.GenerateResource.Cache
+H:\Semester 2\Week7\Week7\obj\Debug\Week7.csproj.CoreCompileInputs.cache
+H:\Semester 2\Week7\Week7\obj\Debug\Week7.exe
+H:\Semester 2\Week7\Week7\obj\Debug\Week7.pdb

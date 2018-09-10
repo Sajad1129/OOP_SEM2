@@ -1,0 +1,7 @@
+H:\Semester 2\OO Programming\Numbers\Numbers\bin\Debug\Numbers.exe.config
+H:\Semester 2\OO Programming\Numbers\Numbers\bin\Debug\Numbers.exe
+H:\Semester 2\OO Programming\Numbers\Numbers\bin\Debug\Numbers.pdb
+H:\Semester 2\OO Programming\Numbers\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+H:\Semester 2\OO Programming\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+H:\Semester 2\OO Programming\Numbers\Numbers\obj\Debug\Numbers.exe
+H:\Semester 2\OO Programming\Numbers\Numbers\obj\Debug\Numbers.pdb

@@ -1,0 +1,5 @@
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Student\bin\Debug\Student.dll
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Student\bin\Debug\Student.pdb
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Student\obj\Debug\Student.dll
+H:\Semester 2\OO Programming\Week 4\Pactice Challenge\Practice\Student\obj\Debug\Student.pdb
